@@ -1,2 +1,2 @@
 # MIT-6.419x
-Code and assignments for the MIT 6.419x Data Science course from edX
+Code and assignments for the MIT 6.419x Statistical Modeling and Computation in Applications
